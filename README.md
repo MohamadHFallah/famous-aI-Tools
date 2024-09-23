@@ -2,16 +2,30 @@
 # Famous AI Tools (FAT)
 
 **FAT**!! This project is dedicated to providing a collection of tools and resources for working with artificial intelligence. Here are some of the AI tools you will find in this repository:
+- **[Curser](https://www.cursor.com/)**: Curser is a tool designed to help developers navigate and edit code more intelligently.
+  - [Twitter](https://twitter.com/cursor_ai)
+  - [GitHub](https://github.com/getcursor/cursor)
 
-- **[Curser](https://www.cursor.com/)**: Curser is a tool designed to help developers navigate and edit code more intelligently. It provides features such as code search, refactoring, and real-time collaboration to enhance productivity and streamline the coding process.
+  - **Key Features:**
+    - **Code Search:** Quickly find specific code snippets and references within your project.
+    - **Refactoring:** Easily restructure and optimize your codebase.
+    - **Real-Time Collaboration:** Work with team members simultaneously on the same codebase to enhance productivity.
 
 - **[Tabnine](https://www.tabnine.com/)**: Tabnine is an AI-powered code completion tool that helps developers write code faster by predicting and suggesting the next lines of code based on context and patterns.
+  - [Twitter](https://twitter.com/tabnine)
+  - [GitHub](https://github.com/codota/TabNine)
+  - [LinkedIn](https://www.linkedin.com/company/tabnine/)
+  - [YouTube](https://www.youtube.com/channel/UC3ZLFXRRmK3XbT5Oq0qPLqA)
 
 
 - **[Mintlify](https://mintlify.com)**: Start building modern documentation in under five minutes.Mintlify is a next-generation platform for creating and managing software documentation
-Key Features
- ** Documentation Authoring Tools
- ** AI-Powered Capabilities
+
+  - [Twitter](https://x.com/mintlify)
+  - [GitHub](https://github.com/mintlify)
+
+   - **Key Features:**
+     - **Documentation Authoring Tools**
+     - **AI-Powered Capabilities**
 
 - **[Poe](https://poe.com/)** Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo
 
@@ -32,3 +46,16 @@ Key Features
 - **[Notion](https://www.notion.so/)**: Notion is an all-in-one workspace that combines note-taking, task management, and project collaboration. It offers a range of AI-powered features to enhance productivity and streamline workflows.
 
 - **[CodeRabbit](https://coderabbit.ai/)**: CodeRabbit is an AI-driven platform designed to assist developers with code generation, debugging, and optimization. It leverages machine learning to provide intelligent coding suggestions and improve development efficiency.
+
+- **[Pieces](https://pieces.app/)**: Pieces is your AI-enabled productivity tool designed to supercharge developer efficiency
+  - [Twitter](https://twitter.com/getpieces)  [GitHub](https://github.com/pieces-app/documentation)  [Linkedin](https://www.linkedin.com/company/getpieces/)
+
+  - **Features:**
+    - **Smart Snippet Management:** Automatically save, organize, and retrieve code snippets.
+    - **Contextual Recommendations:** Get relevant code suggestions based on your current work.
+    - **Seamless Integrations:** Integrate with popular IDEs and tools for a smooth workflow.
+    - **VScode extension** VS Code Extension in combination with the Pieces Desktop App makes saving and reusing code
+    - **AI-Powered Search:** Quickly find code snippets and resources using advanced search capabilities.
+    - **Collaboration Tools:** Share and collaborate on code snippets with your team.
+    - **Offline Access:** Access your saved snippets even when you are offline.
+    - **Microsoft Teams** Integration with MS Teams application for managing chat and code
