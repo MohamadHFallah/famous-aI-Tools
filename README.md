@@ -3,8 +3,7 @@
 
 **FAT**!! This project is dedicated to providing a collection of tools and resources for working with artificial intelligence. Here are some of the AI tools you will find in this repository:
 - **[Curser](https://www.cursor.com/)**: Curser is a tool designed to help developers navigate and edit code more intelligently.
-  - [Twitter](https://twitter.com/cursor_ai)
-  - [GitHub](https://github.com/getcursor/cursor)
+  - [Twitter](https://twitter.com/cursor_ai) - [GitHub](https://github.com/getcursor/cursor)
 
   - **Key Features:**
     - **Code Search:** Quickly find specific code snippets and references within your project.
@@ -12,16 +11,18 @@
     - **Real-Time Collaboration:** Work with team members simultaneously on the same codebase to enhance productivity.
 
 - **[Tabnine](https://www.tabnine.com/)**: Tabnine is an AI-powered code completion tool that helps developers write code faster by predicting and suggesting the next lines of code based on context and patterns.
-  - [Twitter](https://twitter.com/tabnine)
-  - [GitHub](https://github.com/codota/TabNine)
-  - [LinkedIn](https://www.linkedin.com/company/tabnine/)
-  - [YouTube](https://www.youtube.com/channel/UC3ZLFXRRmK3XbT5Oq0qPLqA)
+  
+   [Twitter](https://twitter.com/tabnine)  [GitHub](https://github.com/codota/TabNine)  [LinkedIn](https://www.linkedin.com/company/tabnine/)  [YouTube](https://www.youtube.com/channel/UC3ZLFXRRmK3XbT5Oq0qPLqA)
 
+   - **Key Features:**
+     - Local out-of-the-box execution
+     - Build better application
+     - Supports the most popular languages, libraries, and IDEs you use
+     - Complete code privacy with zero data retention
 
 - **[Mintlify](https://mintlify.com)**: Start building modern documentation in under five minutes.Mintlify is a next-generation platform for creating and managing software documentation
 
-  - [Twitter](https://x.com/mintlify)
-  - [GitHub](https://github.com/mintlify)
+   [Twitter](https://x.com/mintlify) [GitHub](https://github.com/mintlify)
 
    - **Key Features:**
      - **Documentation Authoring Tools**
@@ -53,9 +54,30 @@
   - **Features:**
     - **Smart Snippet Management:** Automatically save, organize, and retrieve code snippets.
     - **Contextual Recommendations:** Get relevant code suggestions based on your current work.
-    - **Seamless Integrations:** Integrate with popular IDEs and tools for a smooth workflow.
     - **VScode extension** VS Code Extension in combination with the Pieces Desktop App makes saving and reusing code
     - **AI-Powered Search:** Quickly find code snippets and resources using advanced search capabilities.
     - **Collaboration Tools:** Share and collaborate on code snippets with your team.
     - **Offline Access:** Access your saved snippets even when you are offline.
     - **Microsoft Teams** Integration with MS Teams application for managing chat and code
+
+- **[Cody AI](https://sourcegraph.com/cod/)**: Cody uses the latest LLMs and all your development context to help you understand, write, and fix code faster
+
+  [Twitter](https://twitter.com/sourcegraph)  [GitHub](https://github.com/sourcegraph)  [Linkedin](https://www.linkedin.com/company/4803356/) [Youtube](https://www.youtube.com/c/Sourcegraph/featured)
+
+  - **Features:**
+     - Search and analyse your codebase with natural language prompts
+     - Generate unit tests
+     - Define your own custom prompt
+
+- **[V0](https://v0.dev/chat)**: v0 a product that makes website creation as simple as describing your ideas. We call it Generative UI—combining the best practices of frontend development with the potential of generative AI.
+
+
+- **[Replit](https://replit.com/)**: Replit is an AI-powered software development & deployment platform that provides everything you need to build software in one place. 
+
+   - [Twitter](https://twitter.com/Replit)  [GitHub](https://github.com/replit) 
+
+  - **Features:**
+    - Create and deploy websites
+    - Deploy automations
+    - Collaborate real-tim with code and
+    - Rapid prototyping and production
