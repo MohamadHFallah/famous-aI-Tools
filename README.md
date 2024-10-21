@@ -81,3 +81,22 @@
     - Deploy automations
     - Collaborate real-tim with code and
     - Rapid prototyping and production
+
+- **[AI Summarizer](https://ai-summarizer.com/)**: AI Summarizer is an AI-powered tool that helps you summarize text quickly and efficiently. It provides a concise summary of the content, making it easier to understand and review.
+
+   - [Twitter](https://twitter.com/Summarizer_org)  [Linkedin](https://www.linkedin.com/company/summarizer)
+
+
+- **[HeyGen](https://heygen.com/)**: HeyGen is an AI-powered platform that allows you to create and customize avatars and videos that can interact with users in real-time.
+
+  - **Features:**
+    - Create and translate videos with AI
+    - Produce studio-quality videos in 175 languages without a camera or crew
+    - Create your own avatar with just a webcam, or use one of our avatars
+
+  - [Twitter](https://twitter.com/heygen_official)  [Linkedin](https://www.linkedin.com/company/heygen/mycompany/?viewAsMember=true)  [YouTube](https://www.youtube.com/@heygen_official) [Facebook](https://www.facebook.com/groups/345553694144336)
+
+
+- **[Freepik](https://www.freepik.com/)**: Freepik is a platform that offers a wide range of free and premium design resources, including illustrations, vectors, photos, and fonts. It provides a user-friendly interface for searching and downloading creative assets.
+
+  - [Twitter](https://twitter.com/freepik)  [Linkedin](https://www.linkedin.com/company/freepik-corp/)  [YouTube](https://www.youtube.com/channel/UC9wPXN2TIWoUamqONb7v8Pw) [Facebook](https://www.facebook.com/Freepik)
